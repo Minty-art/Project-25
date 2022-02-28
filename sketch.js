@@ -9,7 +9,7 @@ const Body = Matter.Body;
 
 function preload()
 {
-	garImage = loadImage("images/dustbin.png")
+	garImage = loadImage("dustbin.png")
 }
 
 function setup() {
